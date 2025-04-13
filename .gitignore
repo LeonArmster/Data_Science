@@ -1,0 +1,6 @@
+.venv
+.python-version
+conexao.env
+Dataset/
+Arquivos/modelo.joblib
+Arquivos/dados.csv

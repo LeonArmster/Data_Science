@@ -1,0 +1,2 @@
+SELECT host_is_superhost, host_listings_count, latitude, longitude, property_type, room_type, accommodates, bathrooms, bedrooms, beds, bed_type, amenities, price, guests_included, extra_people, minimum_nights, maximum_nights, number_of_reviews, instant_bookable, is_business_travel_ready, cancellation_policy, ano, mes
+	FROM public.tb_dados_imobiliarios;
